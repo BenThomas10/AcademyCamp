@@ -1,0 +1,39 @@
+﻿@model IEnumerable<AcademyCamp.Models.Workshop>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2><i>Workshops</i></h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Event.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.WorkshopName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Event.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.WorkshopName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.WorkshopId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.WorkshopId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.WorkshopId })
+        </td>
+    </tr>
+}
+
+</table>

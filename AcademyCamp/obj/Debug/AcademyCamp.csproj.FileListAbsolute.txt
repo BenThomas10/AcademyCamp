@@ -1,0 +1,186 @@
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\ApplicationInsights.config
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\roslyn\csc.exe
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\roslyn\vbc.exe
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\roslyn\VBCSCompiler.exe
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\AcademyCamp.dll.config
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\AcademyCamp.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\AcademyCamp.pdb
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Antlr3.Runtime.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\EntityFramework.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\EntityFramework.SqlServer.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AI.Web.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Newtonsoft.Json.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Owin.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.Helpers.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.Mvc.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.Optimization.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.Razor.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.WebPages.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.WebPages.Razor.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\WebGrease.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AI.Web.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.Helpers.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.Mvc.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.Optimization.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.Razor.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.WebPages.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.WebPages.Razor.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Antlr3.Runtime.pdb
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Newtonsoft.Json.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\EntityFramework.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\EntityFramework.SqlServer.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\obj\Debug\AcademyCamp.csprojResolveAssemblyReference.cache
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\obj\Debug\AcademyCamp.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\obj\Debug\AcademyCamp.pdb
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Net.Http.Formatting.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.Http.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.Http.WebHost.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Net.Http.Formatting.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.Http.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\System.Web.Http.WebHost.xml
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\obj\Debug\RdlCompile.cache
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\obj\Debug\RdlCompile.compiled
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\obj\Debug\AcademyCamp.Migrations.intialMigrate.resources
+C:\Users\flapjax\Documents\Microsoft Press\ASPtraining\AcademyCamp\AcademyCamp\obj\Debug\AcademyCamp.csproj.GenerateResource.Cache
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\ApplicationInsights.config
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\roslyn\csc.exe
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\roslyn\vbc.exe
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\roslyn\VBCSCompiler.exe
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\AcademyCamp.dll.config
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\AcademyCamp.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\AcademyCamp.pdb
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Antlr3.Runtime.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\EntityFramework.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\EntityFramework.SqlServer.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AI.Web.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Newtonsoft.Json.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Owin.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Net.Http.Formatting.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.Helpers.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.Http.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.Http.WebHost.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.Mvc.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.Optimization.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.Razor.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.WebPages.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.WebPages.Razor.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\WebGrease.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\EntityFramework.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\EntityFramework.SqlServer.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AI.Web.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Net.Http.Formatting.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.Http.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.Http.WebHost.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.Helpers.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.Mvc.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.Optimization.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.Razor.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.WebPages.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\System.Web.WebPages.Razor.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Antlr3.Runtime.pdb
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Newtonsoft.Json.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\obj\Debug\AcademyCamp.csprojResolveAssemblyReference.cache
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\obj\Debug\AcademyCamp.Migrations.intialMigrate.resources
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\obj\Debug\AcademyCamp.csproj.GenerateResource.Cache
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\obj\Debug\RdlCompile.cache
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\obj\Debug\RdlCompile.compiled
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\obj\Debug\AcademyCamp.dll
+C:\Users\flapjax\Documents\AcademyCamp\AcademyCamp\obj\Debug\AcademyCamp.pdb

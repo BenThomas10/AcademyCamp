@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<div class="jumbotron-admin">
+    <h1>Academy Camp Administration</h1>
+    <p class="lead">
+        Welcome, Academy Camp Administrator.  Choose from the below administrations tools.  Only administrators can view or edit any registration.  Standard users can only view or edit thier own submissions.</p>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <h4><i>All Campers</i></h4>
+        <p>
+            Review event registrations made by users.  Administrators can create campers but they will not be visible to any non-administrative user.
+        </p>
+        <p><a class="btn btn-primary btn-sm" href="~/Registrants">Add/Edit Campers &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h4><i>Events</i></h4>
+        <p>
+            Events are available as a dropdown selection when a user registers a Camper.  Only related Workshops are avialable after Event selection.
+        </p>
+        <p><a class="btn btn-primary btn-sm" href="~/Events">Add/Edit Units &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h4><i>Workshops</i></h4>
+        <p>
+            Workshops are available as a Camp elective.  Each registrant can optionally sign up for a workshop that is being hosted at the Event.
+        </p>
+        <p><a class="btn btn-primary btn-sm" href="~/Workshops">Add/Edit Workshops &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h4><i>Units</i></h4>
+        <p>
+            When registering as a new site-user, you must select from a list of organizational units the unit you represent.
+        </p>
+        <p><a class="btn btn-primary btn-sm" href="~/Units">Add/Edit Units &raquo;</a></p>
+    </div>
+</div>
+
+

@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Academy Camp</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/custom.css")
+    @Scripts.Render("~/bundles/modernizr")
+        
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <a href="~/Home/Index" class="navbar-brand"> <img src="~/Images/logo.png" alt="Company logo"/> Academy Camp </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav mr-auto">
+                <li>
+                    <a class="nav-link" href="~/UserRegistrants">My Campers</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="~/RegistrantsReport/Personal">Reports</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="~/Home/About">About</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="~/Home/Contact">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <div class="navbar-text navbar-right">
+            @Html.Partial("_LoginPartial")
+        </div>
+</nav>
+    <br />
+    <br />
+    <br />
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - Benjamin Thomas - ASP.net MVC5 Application</p>
+            </footer>
+        </div>
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+</body>
+</html>

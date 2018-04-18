@@ -1,0 +1,22 @@
+﻿
+.jumbotron-admin {
+    align-items:center;
+    align-content:center;
+    text-align:center;
+    padding: 2rem 2rem;
+    margin-bottom: 2rem;
+    background-image: url('../Images/CampBG_Medium.png');
+    border-radius: 0.3rem;
+    
+}
+
+.jumbotron-user {
+    align-items:center;
+    align-content:center;
+    text-align:center;
+    padding: 2rem 2rem;
+    margin-bottom: 2rem;
+    background-image: url('../Images/CampBG_Small.png');
+    border-radius: 0.3rem;
+    
+}
